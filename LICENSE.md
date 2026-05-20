@@ -1,4 +1,4 @@
-### MIT License
+# MIT License
 ```Clipboard Sync
 
 Copyright © 2026 Lucas Benton
